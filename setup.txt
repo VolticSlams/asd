@@ -1,0 +1,4 @@
+Step 1) Extract the Archive
+Step 2) Install Node.js (https://nodejs.org/en/)
+Step 3) Install the dependencies (npm i request request-promise mysql)
+Step 4) Run it (node main)
